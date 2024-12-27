@@ -21,7 +21,7 @@
 
 <!-- 个人信息统计 -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wang-Phil&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrentBrave&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorrentBrave&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrentBrave&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
   <!-- profile logo 个人资料徽标 -->
