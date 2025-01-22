@@ -84,7 +84,7 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
 
   <tr>
     <td>
-     <!-- <img width="100%" src="https://cdn.jsdelivr.net/gh/TorrentBrave/TorrentBrave@main/github-metrics/google%E5%AD%A6%E6%9C%AF.png"> --!>
+
 
 <img width="100%" src="https://cdn.jsdelivr.net/gh/TorrentBrave/TorrentBrave@main/github-metrics/kaggle%E4%B8%BB%E9%A1%B5.png">
 
