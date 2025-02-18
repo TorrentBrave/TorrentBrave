@@ -27,7 +27,7 @@
 <!-- <img align="center" src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/7452bd23-2f91-4d86-8e87-40ca0f75be74.svg"> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrentBrave&layout=compact&theme=buefy&hide_border=true" /> -->
 <!-- 个人信息统计 -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorrentBrave&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrentBrave&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorrentBrave&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | dd |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
   <!-- profile logo 个人资料徽标 -->
