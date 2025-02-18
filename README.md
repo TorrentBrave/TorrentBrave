@@ -19,9 +19,11 @@
 -->
   <!-- for beauty 留个空行好看点 -->
 
-<div align="center" src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/2bd0871b-8630-41d9-94ab-be78265ac491.svg">
+<!-- <div align="center" src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/2bd0871b-8630-41d9-94ab-be78265ac491.svg">
   
 </div>
+-->
+<figure><embed src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/2bd0871b-8630-41d9-94ab-be78265ac491.svg"></embed></figure>
 
   <div>&nbsp;</div>
 
