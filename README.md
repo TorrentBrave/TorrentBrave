@@ -135,10 +135,11 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
 </td></tr>
 
 </table>
-
+  <--!
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/TorrentBrave/TorrentBrave@main/assets/images/icon.png" />
   </div>
+  -->
 
 
 
