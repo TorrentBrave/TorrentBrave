@@ -32,7 +32,7 @@
     <a href="https://www.zhihu.com/people/52-70-83-74-36"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/3546576490335177/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=TorrentBrave&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+    <!-- <img src="https://komarev.com/ghpvc/?username=TorrentBrave&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp; -->
     <!-- wakatime -->    
     <!-- <a href="https://wakatime.com/@TorrentBrave"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a> -->
 
