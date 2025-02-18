@@ -22,6 +22,7 @@
   
 </div>
 <!-- 个人信息统计 -->
+  | ------------------------------------------------------------ | ----------------------------------------------------------- |
   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorrentBrave&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> |
   <img align="center" src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/2bd0871b-8630-41d9-94ab-be78265ac491.svg"> |
   | ------------------------------------------------------------ | ----------------------------------------------------------- |
