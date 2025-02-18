@@ -23,7 +23,7 @@
   
 </div>
 -->
-<img align="center" src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/2bd0871b-8630-41d9-94ab-be78265ac491.svg">
+<img align="center" src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/7452bd23-2f91-4d86-8e87-40ca0f75be74.svg">
   <div>&nbsp;</div>
 
 <!-- 个人信息统计 -->
