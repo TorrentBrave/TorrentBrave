@@ -23,6 +23,8 @@
 </div>
 <!-- 个人信息统计 -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TorrentBrave&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+  
+  <!--
   <img align="right" src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/91690785-888c-4f0d-bdf3-a7d5e6764a8b.svg">
 <!-- profile logo 个人资料徽标 -->
   <div>
@@ -56,7 +58,9 @@
 <table>
 <tr><td>
 
+<!--
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/TorrentBrave/TorrentBrave@main/assets/images/computer.png" />
+-->
 
 I am currently a undergraduate student at Xi’an University of Posts & Telecommunications, and I hope to join a major Internet company when I graduate.
 
@@ -71,6 +75,7 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
 
 </td></tr>
 
+<!--
 <tr><td>
 
 <!--
@@ -92,12 +97,13 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
   <!-- <img width="100%" src="https://github.com/TorrentBrave/TorrentBrave/raw/main/github-metrics/kaggle%E4%B8%BB%E9%A1%B5.png"> -->
 
   <!-- <img width="100%" src="https://cdn.jsdelivr.net/gh/TorrentBrave/TorrentBrave@main/github-metrics/codeforce%E4%B8%BB%E9%A1%B5.png"> -->
-
+<!--
 ​    </td>
   </tr>
 
   <tr><td>
 
+<!--
 🧰 Tools:
 
 &emsp;&emsp;&emsp;&emsp;
@@ -113,6 +119,7 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
 
 <!-- svg -->
 
+<!--
 <div align="center">
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -125,6 +132,7 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
 </div>
 <!-- Gif -->
 
+<!--
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
@@ -135,6 +143,7 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 </td></tr>
+-->
 
 </table>
   <!--
