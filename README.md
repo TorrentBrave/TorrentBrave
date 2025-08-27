@@ -73,6 +73,7 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
 
 <tr><td>
 
+<!--
 ### 🏢 Study Experience
 
 <img align="right" width="80" src="https://cdn.jsdelivr.net/gh/TorrentBrave/TorrentBrave@main/assets/images/R.jpg" />
@@ -96,6 +97,7 @@ I am currently a undergraduate student at Xi’an University of Posts & Telecomm
   </tr>
 
   <tr><td>
+
 🧰 Tools:
 
 &emsp;&emsp;&emsp;&emsp;
