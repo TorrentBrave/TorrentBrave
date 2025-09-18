@@ -20,9 +20,10 @@
   <!-- for beauty 留个空行好看点 -->
 
   
-</div>
+<!-- </div> -->
 <!-- 个人信息统计 -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TorrentBrave&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+<!--
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TorrentBrave&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> -->
   
   <!--
   <img align="right" src="https://wakatime.com/share/@98e75559-2c13-4a6b-b0cd-b97769427dc6/91690785-888c-4f0d-bdf3-a7d5e6764a8b.svg">
