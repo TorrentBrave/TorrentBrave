@@ -63,7 +63,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/TorrentBrave/TorrentBrave@main/assets/images/computer.png" />
 -->
 
-I am currently a undergraduate student at Xi’an University of Posts & Telecommunications, and I hope to join a major Internet company when I graduate.
+<!-- I am currently a undergraduate student at Xi’an University of Posts & Telecommunications, and I hope to join a major Internet company when I graduate. -->
 
 - 🧑‍💼 My current research focuses on DL and RL. Later, I would like to work on the back-end development of AI.
 
